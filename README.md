@@ -2,7 +2,7 @@
 Simple Query Builder in PHP 7.x
 
 ### Why?
-* small, simple, for fun uses :)
+* small (**2class**), simple, easy to use, for fun uses :)
 * it use mysqli param binding, flexible and so on
 * i would write a longer list but why? better if i show examples:
 
